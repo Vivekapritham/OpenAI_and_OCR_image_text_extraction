@@ -1,0 +1,31 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment variables and secrets
+.env
+
+# Virtual environments
+venv/
+mcp_env/
+
+# Uploaded images and temporary data
+static/uploads/
+
+# SQLite database files
+*.db
+*.sqlite3
+
+# Flask session or cache files (optional)
+instance/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
